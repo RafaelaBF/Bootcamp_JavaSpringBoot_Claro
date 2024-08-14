@@ -19,6 +19,12 @@ Este repositório contém os projetos desenvolvidos durante o Bootcamp "Construa
 > 
 > ***<p align="center">Copyright (c) 2024 Rafaela Bezerra de Figueiredo</p>***
 > 
+
+## 📍 Referências
+
+- [Bootcamp](https://web.dio.me/track/coding-the-future-claro-java-spring-boot?tab=about)
+- [Github Dio - Java Básico](https://github.com/digitalinnovationone/trilha-java-basico/tree/main)
+
 ---
 
 <p align="center">🚧 Repositório em andamento...</p>
